@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/24 16:22:06.000.819,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/02/24 16:22:06.000.663,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/03/06 14:56:16.000.097,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/03/06 14:56:16.000.490,=C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/03/06 14:59:09.000.558,C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\andyg\Desktop\C++\網路賓果\Unit1.h</Transaction>
+    <Transaction>2020/03/06 14:59:09.000.558,C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\andyg\Desktop\C++\網路賓果\Unit1.dfm</Transaction>
+    <Transaction>2020/03/06 14:59:09.000.558,C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\andyg\Desktop\C++\網路賓果\Unit1.cpp</Transaction>
+    <Transaction>2020/03/06 14:59:10.000.882,C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\andyg\Desktop\C++\網路賓果\Project1PCH1.h</Transaction>
+    <Transaction>2020/03/06 14:59:12.000.159,C:\Users\andyg\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\andyg\Desktop\C++\網路賓果\Project1.cbproj</Transaction>
+    <Transaction>2020/03/23 01:49:16.000.073,=C:\Users\andyg\Desktop\C++\網路賓果\Unit3.cpp</Transaction>
+    <Transaction>2020/03/23 01:49:56.000.633,C:\Users\andyg\Desktop\C++\網路賓果\Unit2.cpp=C:\Users\andyg\Desktop\C++\網路賓果\Unit3.cpp</Transaction>
+    <Transaction>2020/03/23 01:49:56.000.633,C:\Users\andyg\Desktop\C++\網路賓果\Unit2.h=C:\Users\andyg\Desktop\C++\網路賓果\Unit3.h</Transaction>
+    <Transaction>2020/03/23 01:49:56.000.633,C:\Users\andyg\Desktop\C++\網路賓果\Unit2.dfm=C:\Users\andyg\Desktop\C++\網路賓果\Unit3.dfm</Transaction>
+    <Transaction>2020/04/07 18:20:14.000.324,=C:\Users\andyg\Desktop\C++\網路賓果\Unit3.cpp</Transaction>
+    <Transaction>2020/04/07 18:24:22.000.638,C:\Users\andyg\Desktop\C++\網路賓果\Unit3.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
